@@ -58,12 +58,6 @@ python voice_assistant_ui.py
 - Face recognition
 - Energy monitoring
 
-## Authors
-
-**Group 12**
-
-- Jeesmon Mathew
-
 ## License
 
 This project was developed for educational purposes as part of an Artificial Intelligence course.
